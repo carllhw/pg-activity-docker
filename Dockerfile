@@ -1,5 +1,5 @@
 FROM python:3
-MAINTAINER Haiwei Liu <haiwei.liu@hand-china.com>
+MAINTAINER Haiwei Liu <carllhw@gmail.com>
 
 COPY requirements.txt /
 RUN pip install -r requirements.txt
